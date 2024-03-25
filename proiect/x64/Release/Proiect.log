@@ -1,0 +1,23 @@
+﻿  Camera.cpp
+  main.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+  (compiling source file 'main.cpp')
+  C:\glfw-3.3.9\OpenGL dev libs\include\GLFW\glfw3.h(123,1):
+  see previous definition of 'APIENTRY'
+  
+C:\Users\User\source\repos\Proiect\Proiect\main.cpp(163,41): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\User\source\repos\Proiect\Proiect\main.cpp(179,40): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\User\source\repos\Proiect\Proiect\main.cpp(225,25): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\User\source\repos\Proiect\Proiect\main.cpp(427,23): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\User\source\repos\Proiect\Proiect\main.cpp(457,26): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+  Mesh.cpp
+  Model3D.cpp
+  Shader.cpp
+  stb_image.cpp
+  tiny_obj_loader.cpp
+  Window.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 1719 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Proiect.vcxproj -> C:\Users\User\source\repos\Proiect\x64\Release\Proiect.exe
